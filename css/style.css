@@ -1,0 +1,44 @@
+.logo {
+    min-height: 70px;
+    border: 1px solid green;
+    margin-top: 10px;
+}
+
+.menu{
+    min-height: 70px;
+    border: 1px solid green;
+    margin-top: 10px;
+    
+}
+
+.slider{
+    min-height: 200px;
+    border: 1px solid green;
+    margin-top: 10px;
+    
+    
+}
+
+.feature{
+    min-height: 120px;
+    margin-top: 10px;
+    border: 1px solid green;
+}
+
+.image{
+    margin-top: 10px;
+    min-height: 200px;
+    border: 1px solid green;
+}
+
+.add{
+    margin-top: 10px;
+    border: 1px solid green;
+    min-height: 70px;
+}
+
+.copyright{
+    margin-top: 10px;
+    border: 1px solid green;
+    min-height: 50px;
+}
